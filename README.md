@@ -7,8 +7,8 @@
 ## Funcionalidades
 
 * A aplicação utiliza JavaScript para obter a hora atual do sistema do usuário.
-* A interface da tela inicial é adaptada de acordo com o período do dia:
-  1. Manhã: exibe uma saudação de "Bom dia!" e um design correspondente.
-  2. Tarde: exibe uma saudação de "Boa tarde!" e um design correspondente.
-  3. Noite: exibe uma saudação de "Boa noite!" e um design correspondente.
-* A aplicação é totalmente responsiva, se ajustando a diferentes tamanhos de tela.
+* A interface da tela inicial é adaptada de acordo com o período do dia:  
+* Manhã: exibe uma saudação de "Bom dia!" e um design correspondente.
+* Tarde: exibe uma saudação de "Boa tarde!" e um design correspondente.
+* Noite: exibe uma saudação de "Boa noite!" e um design correspondente.
+* A aplicação é totalmente responsiva, se ajustando a diferentes tamanhos de tela.  
