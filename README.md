@@ -12,3 +12,15 @@
 * Tarde: exibe uma saudação de "Boa tarde!" e um design correspondente.
 * Noite: exibe uma saudação de "Boa noite!" e um design correspondente.
 * A aplicação é totalmente responsiva, se ajustando a diferentes tamanhos de tela.  
+
+
+## Como Usar
+
+* Faça o download ou clone este repositório para o seu computador.
+* Abra o arquivo index.html em um navegador da web.
+* A interface da aplicação se adaptará automaticamente com base na hora do dia.
+
+
+## Contribuições
+  
+Contribuições são bem-vindas! Se você quiser melhorar este projeto, faça um fork deste repositório, faça suas alterações e envie um pull request.
