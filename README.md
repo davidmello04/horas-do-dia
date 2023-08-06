@@ -14,6 +14,11 @@
 * A aplicação é totalmente responsiva, se ajustando a diferentes tamanhos de tela.  
 
 
+## Screenshots
+
+![image](https://github.com/davidmello04/horas-do-dia/assets/102268159/0e5fca4f-3fdf-4d74-82cb-53ac544e93ad)
+
+
 ## Como Usar
 
 * Faça o download ou clone este repositório para o seu computador.
