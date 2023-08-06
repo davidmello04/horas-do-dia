@@ -5,7 +5,7 @@
 * Ela capta a hora atual do dia e modifica a interface da tela inicial de acordo com o período do dia: manhã, tarde ou noite.
 
 ## Funcionalidades
-
+a
 * A aplicação utiliza JavaScript para obter a hora atual do sistema do usuário.
 * A interface da tela inicial é adaptada de acordo com o período do dia:  
 * Manhã: exibe uma saudação de "Bom dia!" e um design correspondente.
